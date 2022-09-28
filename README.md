@@ -71,4 +71,8 @@ What Common Mistakes Can You Make With This Current Design?
 
 Sketch
 -
--
+![P1_Sketch](https://user-images.githubusercontent.com/113062338/192863570-ba8053a6-29a2-4d40-994e-1a2eff2f138f.png)
+
+-My design implies a much more simplistic approach to avoid any confusion on the users' part
+
+-It also avoids the use of buttons with similar functions and labels
