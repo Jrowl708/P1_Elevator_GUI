@@ -19,8 +19,6 @@ Why the Design is Bad
 -
 -There are too many buttons that may potentially confuse the user
 
--This conventional design has not evolved
-
 Common Uses
 -
 -Travelling to different floors
