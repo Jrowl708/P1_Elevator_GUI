@@ -1,4 +1,4 @@
-# P1_Elevator_GUI
+# p1.Jacobie_Rowland
 Elevator
 
 ![ELEVATOR_smaller](https://user-images.githubusercontent.com/113062338/191854329-107144a0-1708-4a26-990f-dc89fd978ace.jpg)
