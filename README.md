@@ -68,3 +68,7 @@ What Common Mistakes Can You Make With This Current Design?
 -Same can be said for the 2 sets of open and close buttons on this particular panel
 
 -Overcrowding the panel with buttons that have multiple functions can cause confusion and be visually unappealing
+
+Sketch
+-
+-
