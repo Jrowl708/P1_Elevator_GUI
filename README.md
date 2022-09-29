@@ -1,4 +1,5 @@
 # p1.Jacobie_Rowland
+
 Elevator
 
 ![ELEVATOR_smaller](https://user-images.githubusercontent.com/113062338/191854329-107144a0-1708-4a26-990f-dc89fd978ace.jpg)
@@ -74,3 +75,8 @@ Sketch
 -My design implies a much more simplistic approach to avoid any confusion on the users' part
 
 -It also avoids the use of buttons with similar functions and labels
+
+Demo
+-
+![DEMO](https://user-images.githubusercontent.com/113062338/192923118-2b69bcc5-c3d3-4910-8b5f-4009769f1366.gif)
+
