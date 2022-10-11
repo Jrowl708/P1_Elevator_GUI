@@ -16,8 +16,6 @@ Issues with the Current Design
 
 -There are 2 sets of open and close buttons. Again, this is sure to confuse users pertaining to the functionality of those buttons
 
--No buttons contain auditory feedback
-
 Why the Design is Bad
 -
 -There are too many buttons that may potentially confuse the user
@@ -31,8 +29,6 @@ Common Uses
 -Pressing buttons that correlate to a desired floor
 
 Rare Uses
--
--Touchscreen panels are pretty rare
 
 -Emergency stop button
 
